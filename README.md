@@ -6,7 +6,7 @@
 ---
 
 ### 🔭 What I'm working on
-- **V-Patrol AI Pvt. Ltd.** — Leading malware analysis & Android development (since 2026)
+- Leading malware analysis & Android development (since 2026)
 - **APK Binder** — Open-source Android binary instrumentation framework
 - **Ustad Mobile** (KMP) — Offline-first LMS used across 30+ countries
 
