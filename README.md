@@ -1,7 +1,7 @@
 # Hi there, I'm Prashant Deshmukh — aka `sivedcodes` 👋
 
 🔹 **Android & KMP Engineer** · **Malware Analyst** · **Researcher**  
-🔹 4+ years building production apps and breaking them for security
+🔹 Security research since 2017 (OTP bypass) · CVE-2026-0098 · APK Binder
 
 ---
 
@@ -11,6 +11,7 @@
 - **Ustad Mobile** (KMP) — Offline-first LMS used across 30+ countries
 
 ### 🛡️ Security Research
+- **2017 — OTP Bypass Vulnerability** — Discovered a critical flaw in SMS-based OTP authentication; bypassed via API session manipulation
 - **CVE-2026-0098** — Identified app version spoofing & silent installation vulnerability (patched by Google)
 - Telegram SQL injection + Binder exploit research (chat data exposure vector)
 - Google PHA (Potentially Harmful App) analysis & reverse engineering
