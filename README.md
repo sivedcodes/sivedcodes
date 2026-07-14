@@ -1,13 +1,11 @@
 # Hi there, I'm Prashant Deshmukh — aka `sivedcodes` 👋
 
 🔹 **Software Engineer (SDE)** · **Malware Analyst** · **Security Researcher**  
-🔹 Security research since 2017 (OTP bypass) · CVE-2026-0098 · APK Binder
-
 ---
 
 ### 🔭 What I'm working on
 - Leading malware analysis & Android development (since 2026)
-- **APK Binder** — Open-source Android binary instrumentation framework
+- **APK Binder** —  Android binary instrumentation framework
 - **Ustad Mobile** (KMP) — Offline-first LMS used across 30+ countries
 
 ### 🛡️ Security Research
